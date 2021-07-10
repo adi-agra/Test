@@ -10,5 +10,5 @@ def sample_array(length) :
     print ("Returning sample array of length {} : {}".format(length, sample))
     return sample 
 
-
-#sample_array()
+#Sample funtion call 
+sample_array(5)
